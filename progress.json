@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T16:14:08.942Z",
+  "generated_at": "2026-10-23T16:14:11.274Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -143,6 +143,45 @@
       "last_pushed_at": "2026-04-01T05:30:45.744Z",
       "language": "python",
       "lines": 17
+    },
+    "problem:14": {
+      "kind": "problem",
+      "id": "14",
+      "title": "Linear Regression Using Normal Equation",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/14",
+      "path": "problems/0014-linear-regression-using-normal-equation",
+      "first_solved_at": "2026-07-26T11:47:29.795Z",
+      "last_pushed_at": "2026-07-26T11:47:29.795Z",
+      "language": "python",
+      "lines": 8
+    },
+    "problem:15": {
+      "kind": "problem",
+      "id": "15",
+      "title": "Linear Regression Using Gradient Descent",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/15",
+      "path": "problems/0015-linear-regression-using-gradient-descent",
+      "first_solved_at": "2026-07-26T11:55:01.852Z",
+      "last_pushed_at": "2026-07-26T11:55:01.852Z",
+      "language": "python",
+      "lines": 26
+    },
+    "problem:16": {
+      "kind": "problem",
+      "id": "16",
+      "title": "Feature Scaling Implementation",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/16",
+      "path": "problems/0016-feature-scaling-implementation",
+      "first_solved_at": "2026-07-26T11:58:40.031Z",
+      "last_pushed_at": "2026-07-26T11:58:40.031Z",
+      "language": "python",
+      "lines": 8
     }
   }
 }
