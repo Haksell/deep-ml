@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**36** solved · 24 problems · 0 labs · 12 math
+**37** solved · 24 problems · 0 labs · 13 math
 
 ![Coverage](./coverage.svg)
 
@@ -45,6 +45,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Descriptive Statistics](https://www.deep-ml.com/math-problems/18) | easy | 2026-10-10 | [solution](math/0018-descriptive-statistics) |
 | [Expectation and Variance Algebra](https://www.deep-ml.com/math-problems/33) | easy | 2026-10-10 | [solution](math/0033-expectation-and-variance-algebra) |
 | [Gradient Descent Updates](https://www.deep-ml.com/math-problems/5) | easy | 2026-10-10 | [solution](math/0005-gradient-descent-updates) |
+| [Matrix Basics](https://www.deep-ml.com/math-problems/9) | easy | 2026-10-23 | [solution](math/0009-matrix-basics) |
 | [Probability Fundamentals](https://www.deep-ml.com/math-problems/19) | easy | 2026-10-10 | [solution](math/0019-probability-fundamentals) |
 | [Vector Operations](https://www.deep-ml.com/math-problems/7) | easy | 2026-10-10 | [solution](math/0007-vector-operations) |
 | [Determinants and Trace](https://www.deep-ml.com/math-problems/11) | medium | 2026-10-10 | [solution](math/0011-determinants-and-trace) |

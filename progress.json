@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T16:14:15.176Z",
+  "generated_at": "2026-10-23T16:14:16.977Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -192,7 +192,7 @@
       "url": "https://www.deep-ml.com/math-problems/1",
       "path": "math/0001-derivatives-and-gradients",
       "first_solved_at": "2026-10-10T06:04:43.304Z",
-      "last_pushed_at": "2026-10-10T06:04:43.304Z"
+      "last_pushed_at": "2026-10-23T16:14:16.975Z"
     },
     "math:5": {
       "kind": "math",
@@ -203,7 +203,7 @@
       "url": "https://www.deep-ml.com/math-problems/5",
       "path": "math/0005-gradient-descent-updates",
       "first_solved_at": "2026-10-10T06:07:04.812Z",
-      "last_pushed_at": "2026-10-10T06:07:04.812Z"
+      "last_pushed_at": "2026-10-23T16:14:16.975Z"
     },
     "math:7": {
       "kind": "math",
@@ -214,7 +214,7 @@
       "url": "https://www.deep-ml.com/math-problems/7",
       "path": "math/0007-vector-operations",
       "first_solved_at": "2026-10-10T06:12:43.624Z",
-      "last_pushed_at": "2026-10-10T06:12:43.624Z"
+      "last_pushed_at": "2026-10-23T16:14:16.975Z"
     },
     "math:10": {
       "kind": "math",
@@ -225,7 +225,7 @@
       "url": "https://www.deep-ml.com/math-problems/10",
       "path": "math/0010-matrix-multiplication",
       "first_solved_at": "2026-10-10T06:16:30.209Z",
-      "last_pushed_at": "2026-10-10T06:16:30.209Z"
+      "last_pushed_at": "2026-10-23T16:14:16.975Z"
     },
     "math:8": {
       "kind": "math",
@@ -236,7 +236,7 @@
       "url": "https://www.deep-ml.com/math-problems/8",
       "path": "math/0008-vector-norms-and-linear-independence",
       "first_solved_at": "2026-10-10T06:18:55.116Z",
-      "last_pushed_at": "2026-10-10T06:18:55.116Z"
+      "last_pushed_at": "2026-10-23T16:14:16.975Z"
     },
     "problem:121": {
       "kind": "problem",
@@ -338,7 +338,7 @@
       "url": "https://www.deep-ml.com/math-problems/18",
       "path": "math/0018-descriptive-statistics",
       "first_solved_at": "2026-10-10T22:54:08.068Z",
-      "last_pushed_at": "2026-10-10T22:54:08.068Z"
+      "last_pushed_at": "2026-10-23T16:14:16.975Z"
     },
     "math:19": {
       "kind": "math",
@@ -349,7 +349,7 @@
       "url": "https://www.deep-ml.com/math-problems/19",
       "path": "math/0019-probability-fundamentals",
       "first_solved_at": "2026-10-10T23:00:43.376Z",
-      "last_pushed_at": "2026-10-10T23:00:43.376Z"
+      "last_pushed_at": "2026-10-23T16:14:16.975Z"
     },
     "math:33": {
       "kind": "math",
@@ -360,7 +360,7 @@
       "url": "https://www.deep-ml.com/math-problems/33",
       "path": "math/0033-expectation-and-variance-algebra",
       "first_solved_at": "2026-10-10T23:11:14.931Z",
-      "last_pushed_at": "2026-10-10T23:11:14.931Z"
+      "last_pushed_at": "2026-10-23T16:14:16.975Z"
     },
     "problem:78": {
       "kind": "problem",
@@ -410,7 +410,7 @@
       "url": "https://www.deep-ml.com/math-problems/11",
       "path": "math/0011-determinants-and-trace",
       "first_solved_at": "2026-10-10T23:51:06.326Z",
-      "last_pushed_at": "2026-10-10T23:51:06.326Z"
+      "last_pushed_at": "2026-10-23T16:14:16.975Z"
     },
     "math:12": {
       "kind": "math",
@@ -421,7 +421,7 @@
       "url": "https://www.deep-ml.com/math-problems/12",
       "path": "math/0012-inverse-and-rank",
       "first_solved_at": "2026-10-10T23:57:02.230Z",
-      "last_pushed_at": "2026-10-10T23:57:02.230Z"
+      "last_pushed_at": "2026-10-23T16:14:16.975Z"
     },
     "math:13": {
       "kind": "math",
@@ -432,7 +432,7 @@
       "url": "https://www.deep-ml.com/math-problems/13",
       "path": "math/0013-solving-linear-systems",
       "first_solved_at": "2026-10-10T23:58:48.540Z",
-      "last_pushed_at": "2026-10-10T23:58:48.540Z"
+      "last_pushed_at": "2026-10-23T16:14:16.975Z"
     },
     "math:14": {
       "kind": "math",
@@ -443,7 +443,18 @@
       "url": "https://www.deep-ml.com/math-problems/14",
       "path": "math/0014-orthogonality-and-projections",
       "first_solved_at": "2026-10-11T00:22:57.425Z",
-      "last_pushed_at": "2026-10-11T00:22:57.425Z"
+      "last_pushed_at": "2026-10-23T16:14:16.975Z"
+    },
+    "math:9": {
+      "kind": "math",
+      "id": "9",
+      "title": "Matrix Basics",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/math-problems/9",
+      "path": "math/0009-matrix-basics",
+      "first_solved_at": "2026-10-23T16:14:16.975Z",
+      "last_pushed_at": "2026-10-23T16:14:16.975Z"
     }
   }
 }
