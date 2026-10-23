@@ -8,14 +8,16 @@ __global__ void index_kernel(int* out, int n) {
 
 std::vector<int> global_thread_indices(int n) {
     int bytes = sizeof(int) * n;
-    int* arr_h = (int*)malloc(bytes);
-    int* arr_d;
 
+    std::vector<int> arr_h(n);
+    int* arr_d;
     cudaMalloc(&arr_d, bytes);
+
     int blockDim = 256;
-    int gridDim = (blockDim + 255) / 256;
+    int gridDim = (n + blockDim - 1) / blockDim;
     index_kernel<<<gridDim, blockDim>>>(arr_d, n);
-    cudaMemcpy(arr_h, arr_d, bytes, cudaMemcpyDeviceToHost);
+
+    cudaMemcpy(arr_h.data(), arr_d, bytes, cudaMemcpyDeviceToHost);
     cudaFree(arr_d);
-    return std::vector(arr_h, arr_h + n);
+    return arr_h;
 }

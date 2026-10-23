@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T16:30:36.200Z",
+  "generated_at": "2026-10-23T16:34:04.103Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -465,9 +465,9 @@
       "url": "https://www.deep-ml.com/problems/1201",
       "path": "problems/1201-your-first-cuda-kernel-thread-index",
       "first_solved_at": "2026-10-23T16:30:35.212Z",
-      "last_pushed_at": "2026-10-23T16:30:35.212Z",
+      "last_pushed_at": "2026-10-23T16:34:03.386Z",
       "language": "python",
-      "lines": 22
+      "lines": 24
     }
   }
 }
